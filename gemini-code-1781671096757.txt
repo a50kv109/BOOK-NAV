@@ -1,0 +1,13 @@
+BOOK-NAV/
+│
+├── README.md (v1.5)
+├── CHANGELOG_V1_5.md
+├── BOOK_ARCHETYPES.md (с AI Priority и Query Types)
+├── ARCHETYPE_DETECTION_RULES.md (логика автоматизации)
+├── BOOK_TWO_HEROES.md (аудит: ожидание vs реальность)
+├── UTILITY_SCHEMA_V1_5.md
+├── TEST_PLAN_V1_5.md
+│
+└── templates/
+    ├── NAV_TEMPLATE.md
+    └── UTILITY_TEMPLATE.md
