@@ -1,0 +1,16 @@
+BOOK-NAV/
+│
+├── README.md (v1.5)
+├── LICENSE
+│
+├── CHANGELOG_V1_5.md
+├── BOOK_ARCHETYPES.md
+├── BOOK_TWO_HEROES.md
+├── UTILITY_SCHEMA_V1_5.md
+├── TEST_PLAN_V1_5.md
+│
+├── templates/
+│   ├── NAV_TEMPLATE.md
+│   └── UTILITY_TEMPLATE.md
+│
+└── examples/
