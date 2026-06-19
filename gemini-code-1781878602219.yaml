@@ -1,0 +1,14 @@
+# Стандартный профиль утилиты
+BOOK_ARCHETYPE: [TECHNICAL_REFERENCE / TEXTBOOK / CATALOG]
+PROCESS_INDEX: 
+  - [PROCESS_NAME_1]
+  - [PROCESS_NAME_2]
+
+BOOK_TWO_HEROES_AUDIT:
+  DECLARED_ROLE: (Что заявлено)
+  ACTUAL_ROLE: (Что реально дает)
+  ENGINEERING_VALUE: (Оценка в баллах)
+
+ENGINEERING_INVARIANTS:
+  - invariant: 
+    explanation:
