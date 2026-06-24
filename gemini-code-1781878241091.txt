@@ -1,0 +1,6 @@
+AAM-V1-KNOWLEDGE-TRANSFERS/
+├── README.md           # Основной паспорт навыка и инструкция
+├── BOOTSTRAP_PROMPT.txt # "Кнопка пуск" для любой LLM
+└── TEMPLATES/          # Шаблоны для генерации
+    ├── NAV_TEMPLATE.md
+    └── UTILITY_TEMPLATE.yaml
